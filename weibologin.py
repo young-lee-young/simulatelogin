@@ -98,6 +98,6 @@ def main(username,password):
     login(html)
 
 if __name__ == '__main__':
-    username = '13717523878'
-    password = '13717523878'
+    username = '用户名'
+    password = '密码'
     main(username,password)
